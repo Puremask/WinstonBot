@@ -57,7 +57,7 @@ bot.on('message', message => {
 
             }
             else if (args[1] == 69) {
-                message.reply('Error: Way too sexual, dude! We\'re talking about a dog here!');
+                message.reply('Error: We\'re talking about a dog here!');
 
             }
             else if (parseFloat(args[1]) > 18 && args[1] != 69 && args[1] != 420) {
