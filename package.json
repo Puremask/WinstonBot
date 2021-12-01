@@ -1,0 +1,27 @@
+{
+  "name": "winstonbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  
+  },
+  
+  "author": "Puremask",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Puremask/CloudBot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Puremask/CloudBot/issues"
+  },
+  "homepage": "https://github.com/Puremask/CloudBot#readme",
+  "description": ""
+}
